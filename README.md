@@ -7,9 +7,15 @@ To use as a core in muOS, download .zip, place in /mnt/mmc/ARCHIVE and install t
 Original code ported from [pixel-reader](https://github.com/ealang/pixel-reader) by [ealang](https://github.com/ealang)
 
 Controls
+
 a: enter
+
 left/right: turn page
+
 up/down: scroll
+
 x: settings(theme/font/size)
+
 y: chapter select
+
 select: exit 
